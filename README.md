@@ -1,4 +1,4 @@
-# wk 10 project - Heart Disease Prediction
+# wk10 project - Heart Disease Prediction
 
 ## Description
 A Regression type prediction model using *Random Forest Regression* algorithm. It uses accuracy score and classification report as the metric for prediction.
